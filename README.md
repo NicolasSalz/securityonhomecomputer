@@ -1,7 +1,7 @@
 # securityonhomecomputer
 
 ## Vorwort
-Hier soll Idee für einen Workshop vorstellt werden, der sich mit mehreren Themen der Sicherheit auf dem Heim Computer und natürlich dann auch auf dienstlichen Geräten beschäftigt. Die Zielgruppe sollen Nutzer von Desktop PCs sein.
+Hier soll Idee für einen Workshop vorstellt werden, der sich mit mehreren Themen der Sicherheit auf dem Heim Computer und natürlich dann auch auf dienstlichen Geräten beschäftigt. Die Zielgruppe sollen Nutzer von Desktop PCs sein, die diese täglich einsetzen und gewissen Grundkenntnisse mitbringen.
 
 Der Workshop soll zunächst mal durchgeführt werden, möglicherweise auch mit ein paar Leute vom Fach. Die Ergebnisse der ersten Durchführungen möchte ich hier zusammentragen und zu weiteren Durchführungen anregen.
 
@@ -13,3 +13,8 @@ Zu Beginn des Workshops sollte ein Haftungsausschluss angesprochen werden, da es
 Formulierung:
 
 Dieser Workshop bietet allgemeine Informationen zum Thema Computersicherheit auf Heimcomputern. Die Informationen stellen keine rechtliche Beratung dar und sollten nicht als solche betrachtet werden. Weder der Veranstalter noch die Referenten übernehmen eine Haftung für Verluste oder Schäden, die aus der Verwendung der in diesem Workshop bereitgestellten Informationen resultieren können. Die Teilnahme an diesem Workshop erfolgt auf eigenes Risiko.
+
+##Zielgruppe
+Der Workshop ist an Leute gerichtet, die regelmäßig mit Webportalen / Onlinediensten arbeiten, bei denen sie sich authentifizieren müssen. Es soll explizit kein Grundlagenkurs für Windows darstellen.
+
+Zu dem Workshop sollen alle Teilnehmer in der Lage sein, einen Windows Rechner mitzubringen, auf dem sie dann in den ersten Schritten in der Lage sind, KeePass zu installieren (auch bezüglich Admin Rechte auf der Kiste). Darüber hinaus muss ein Browser installiert sein.
